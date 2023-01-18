@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-**Current role**: Director, Data Science at 84.51°
+**Work** :computer:
+
+Director, Data Science at [84.51°](https://www.8451.com/)
 
 **Education** :mortar_board:
 
