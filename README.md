@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**bgreenwell/bgreenwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Current role**: Director, Data Science at 84.51°
 
-Here are some ideas to get you started:
+**Education**: :mortar_board:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - B.S. in Statistics from [Wright State University](https://www.wright.edu/)
+  - M.S. in Applied Statistics from [Wright State University](https://www.wright.edu/)
+  - Ph.D. in Applied Mathematics from the [Air Force Institute of Technology](https://www.afit.edu/)
+    * Dissertations: [Topics in Statistical Calibration](https://apps.dtic.mil/sti/pdfs/ADA598921.pdf)
+
+**Books**: :books:
+
+  - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+  - [Tree-Based Methods for Statistical learning in R](https://bgreenwell.github.io/treebook/)
+  
+**Teach**: :school:
+
+  [Adjunct Instructor](https://business.uc.edu/faculty-and-research/departments/obais/faculty/brandon-greenwell.html), Department of Operations, Business Analytics, and Information Systems (University of Cincinnati)
+  
