@@ -14,7 +14,7 @@ Director, Data Science at [84.51°](https://www.8451.com/)
 **Books** :books:
 
   - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
-  - [Tree-Based Methods for Statistical learning in R](https://bgreenwell.github.io/treebook/)
+  - [Tree-Based Methods for Statistical learning in R](https://bgreenwell.github.io/treebook/) :deciduous_tree:
   
 **Teach** :school:
 
