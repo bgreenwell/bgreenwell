@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgreenwell)](https://github.com/anuraghazra/github-readme-stats)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgreenwell&show_icons=true&theme=dracula)
 
 **Work** :computer:
 
