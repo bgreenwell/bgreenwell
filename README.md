@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgreenwell)](https://github.com/anuraghazra/github-readme-stats)
+
 **Work** :computer:
 
 Director, Data Science at [84.51°](https://www.8451.com/)
