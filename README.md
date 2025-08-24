@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I'm a Data Science Leader who enjoys building cutting-edge AI/ML solutions. My work focuses on statistical modeling, machine learning, and data analysis, primarily using R and Python. I enjoy creating tools and patterns that help organizations make better data-driven decisions.
+I'm a statistician and data science leader who enjoys building cutting-edge AI/ML solutions. My work mostly focuses on statistical modeling, machine learning and explainability, and data analysis, primarily using R and Python. I enjoy creating tools and patterns that help organizations make better data-driven decisions. I'm also really interested in making fun, useful terminal applications.
 
 ---
 
