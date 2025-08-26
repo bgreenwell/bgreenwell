@@ -18,7 +18,7 @@ Hi there! I'm a **Director of Data Science** at 84.51° with a passion for devel
 
 ### 🏆 What I Do
 
-As **Director of Data Science at 84.51°**, I lead the AI/ML Patterns team, synthesizing the latest AI/ML advancements into foundational tooling and driving enterprise-wide adoption across Kroger. I'm also passionate about education, serving as an **Adjunct Instructor** at both University of Cincinnati and Wright State University, where I teach graduate-level statistics and business analytics.
+As **Director of Data Science at 84.51°**, where I'm a data science tech lead on the AI Enablement team, synthesizing the latest AI/ML advancements into foundational tooling and driving enterprise-wide adoption across Kroger. I'm also passionate about education, serving as an **Adjunct Instructor** at both University of Cincinnati and Wright State University, where I teach graduate-level statistics and business analytics.
 
 **Core Expertise:** Statistical Modeling • Machine Learning • Explainable AI • R/Python Development • Open Source Contributor
 
@@ -55,7 +55,7 @@ As **Director of Data Science at 84.51°**, I lead the AI/ML Patterns team, synt
 ## 👨‍💻 Current Roles
 
 **🏢 Director, Data Science @ 84.51°** (Kroger's Data Science Subsidiary)
-- Technical lead for the AI/ML Patterns team, designing best-practice patterns and tools for AI/ML applications
+- Data science tech lead on the AI Enablement team, designing best-practice patterns and tools for AI/ML applications
 - Synthesize latest AI/ML advancements into foundational tooling and reusable patterns
 - Drive adoption of AI/ML tools and practices across the Kroger enterprise
 
