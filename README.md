@@ -1,12 +1,26 @@
-# Brandon M. Greenwell
+# Brandon M. Greenwell 👨‍💻
 
-📧 [greenwell.brandon@gmail.com](mailto:greenwell.brandon@gmail.com) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en)
+📧 [greenwell.brandon@gmail.com](mailto:greenwell.brandon@gmail.com) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en) | 📱 (614) 288-9450
 
 ---
 
-### Hi there 👋
+## About Me 🚀
 
-I'm a statistician and data science leader who enjoys building cutting-edge AI/ML solutions. My work mostly focuses on statistical modeling, machine learning & explainability, and data analysis, primarily using R and Python. I enjoy creating tools and patterns that help organizations make better data-driven decisions. I'm also really interested in making fun, useful terminal applications.
+Hi there! I'm a **Director of Data Science** at 84.51° with a passion for developing cutting-edge AI/ML solutions and empowering organizations to leverage the power of data-driven decisions. With over a decade of experience in statistical modeling, machine learning, and data analysis, I bridge the gap between academic research and practical industry applications. I'm also really interested in making fun, useful terminal applications!
+
+### 🎓 Education & Background
+
+- **Ph.D. in Applied Mathematics** - Air Force Institute of Technology (2014) 
+  - *Dissertation: "Topics in Statistical Calibration"* | GPA: 4.0
+- **M.S. in Applied Statistics** - Wright State University (2011) | GPA: 4.0  
+- **B.S. in Statistics** - Wright State University (2009)
+- **Accredited Graduate Statistician (GStat)** - American Statistical Association (2014)
+
+### 🏆 What I Do
+
+As **Director of Data Science at 84.51°**, I lead the AI/ML Patterns team, synthesizing the latest AI/ML advancements into foundational tooling and driving enterprise-wide adoption across Kroger. I'm also passionate about education, serving as an **Adjunct Instructor** at both University of Cincinnati and Wright State University, where I teach graduate-level statistics and business analytics.
+
+**Core Expertise:** Statistical Modeling • Machine Learning • Explainable AI • R/Python Development • Open Source Contributor
 
 ---
 
@@ -17,38 +31,52 @@ I'm a statistician and data science leader who enjoys building cutting-edge AI/M
 
 ---
 
-### 📦 My popular repositories
+## 💻 Featured Open Source Projects
 
-#### Rust projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=doxx&theme=dracula)](https://github.com/bgreenwell/doxx)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=lstr&theme=dracula)](https://github.com/bgreenwell/lstr)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=rjot&theme=dracula)](https://github.com/bgreenwell/rjot)
+### 🦀 Rust Projects
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=doxx&theme=dracula&cache_seconds=1800)](https://github.com/bgreenwell/doxx)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=lstr&theme=dracula&cache_seconds=1800)](https://github.com/bgreenwell/lstr)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=rjot&theme=dracula&cache_seconds=1800)](https://github.com/bgreenwell/rjot)
 
-#### Go projects
+### 🐹 Go Projects
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=gitego&theme=dracula&cache_seconds=1800)](https://github.com/bgreenwell/gitego)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=gitego&theme=dracula)](https://github.com/bgreenwell/gitego)
-<br>
-
-#### R packages
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=fastshap&theme=dracula)](https://github.com/bgreenwell/fastshap)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=pdp&theme=dracula)](https://github.com/bgreenwell/pdp)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=koalaverse&repo=vip&theme=dracula)](https://github.com/koalaverse/vip)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=koalaverse&repo=sure&theme=dracula)](https://github.com/koalaverse/sure)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=investr&theme=dracula)](https://github.com/bgreenwell/investr)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=ebm&theme=dracula)](https://github.com/bgreenwell/ebm)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=statlingua&theme=dracula)](https://github.com/bgreenwell/statlingua)
+### 📊 R Packages (CRAN Published)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=fastshap&theme=dracula&cache_seconds=1800)](https://github.com/bgreenwell/fastshap)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=pdp&theme=dracula&cache_seconds=1800)](https://github.com/bgreenwell/pdp)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=koalaverse&repo=vip&theme=dracula&cache_seconds=1800)](https://github.com/koalaverse/vip)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=koalaverse&repo=sure&theme=dracula&cache_seconds=1800)](https://github.com/koalaverse/sure)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=investr&theme=dracula&cache_seconds=1800)](https://github.com/bgreenwell/investr)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=ebm&theme=dracula&cache_seconds=1800)](https://github.com/bgreenwell/ebm)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bgreenwell&repo=statlingua&theme=dracula&cache_seconds=1800)](https://github.com/bgreenwell/statlingua)
 
 ---
 
-### 👨‍💻 Current roles
+## 👨‍💻 Current Roles
 
-**Director, Data Science, 84.51°** 
+**🏢 Director, Data Science @ 84.51°** (Kroger's Data Science Subsidiary)
+- Technical lead for the AI/ML Patterns team, designing best-practice patterns and tools for AI/ML applications
+- Synthesize latest AI/ML advancements into foundational tooling and reusable patterns
+- Drive adoption of AI/ML tools and practices across the Kroger enterprise
 
-- Technical lead for the AI Patterns team, designing and developing best-practice patterns and tools for AI/ML applications.
-- Synthesize the latest advancements in AI/ML to build foundational tooling and reusable patterns.
-- Drive adoption of AI/ML tools and practices across the Kroger enterprise.
+**📚 Adjunct Instructor @ University of Cincinnati** 
+- Department of OBAIS - Teaching graduate-level statistics, business analytics, and programming with AI courses
+- Previously taught at Wright State University (2017-2022) in Biostatistics and Environmental Statistics
 
-**Annual Adjunct Instructor, University of Cincinnati**
+---
 
-- Department of OBAIS
-- Teach a mix of statistics, business analytics, and programming with AI courses.
+## 📈 GitHub Stats
+
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bgreenwell&show_icons=true&theme=dracula&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bgreenwell&layout=compact&theme=dracula&cache_seconds=1800)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/brandon-greenwell/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en)
+- 📧 Email: greenwell.brandon@gmail.com
+- 🌐 Active member of the American Statistical Association (ASA)
+- 📝 Reviewer for top journals including *The R Journal*
