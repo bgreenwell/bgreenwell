@@ -69,8 +69,6 @@ As **Director of Data Science at 84.51°**, I lead the AI/ML Patterns team, synt
 
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bgreenwell&show_icons=true&theme=dracula&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bgreenwell&layout=compact&theme=dracula&cache_seconds=1800)
-
 ---
 
 ## 🤝 Connect With Me
