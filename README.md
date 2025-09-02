@@ -1,6 +1,6 @@
 # Brandon M. Greenwell 👨‍💻
 
-📧 [greenwell.brandon@gmail.com](mailto:greenwell.brandon@gmail.com) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en) | 📱 (614) 288-9450
+📧 [greenwell.brandon@gmail.com](mailto:greenwell.brandon@gmail.com) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en)
 
 ---
 
