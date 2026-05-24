@@ -32,7 +32,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=bgreenwell&layout=compact&theme=dracula
+          options: username=bgreenwell&layout=compact&theme=dracula&hide=html,css
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
