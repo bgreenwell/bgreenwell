@@ -86,14 +86,9 @@ When I'm not training models or teaching, I'm building high-performance develope
 
 ---
 
-## GitHub stats & languages
+## GitHub stats
 
-<table>
-  <tr>
-    <td><img src="./profile/stats.svg" alt="Brandon's GitHub Stats" width="495" /></td>
-    <td><img src="./profile/top-langs.svg" alt="Brandon's Top Languages" width="495" /></td>
-  </tr>
-</table>
+![Brandon's GitHub Stats](./profile/stats.svg)
 
 ---
 
