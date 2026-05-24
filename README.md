@@ -15,7 +15,7 @@ When I'm not training models or teaching, I'm building high-performance develope
 ### Highlights
 
 - **Work**: Designing enterprise-grade foundational AI/ML tooling, libraries, and patterns for the Kroger ecosystem.
-- **Books & writing**: Author of *Hands-On Machine Learning with R* and *Tree-Based Methods for Statistical Learning in R*.
+- **Books**: Author of *Hands-On Machine Learning with R* and *Tree-Based Methods for Statistical Learning in R*.
 - **Open source**: Active maintainer and contributor to highly-cited R packages (e.g., `fastshap`, `pdp`, `vip`) and modern CLI/terminal utilities in Rust and Go.
 
 ---
