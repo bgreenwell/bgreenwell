@@ -23,22 +23,39 @@ When I'm not training models or teaching, I'm building high-performance develope
 ## 💻 Featured Open Source Projects
 
 ### 🦀 Rust Projects
-<a href="https://github.com/bgreenwell/doxx"><img src="./profile/doxx.svg" width="400" height="120" /></a>
-<a href="https://github.com/bgreenwell/lstr"><img src="./profile/lstr.svg" width="400" height="120" /></a>
-<a href="https://github.com/bgreenwell/rjot"><img src="./profile/rjot.svg" width="400" height="120" /></a>
-<a href="https://github.com/bgreenwell/xleak"><img src="./profile/xleak.svg" width="400" height="120" /></a>
+<table>
+  <tr>
+    <td><a href="https://github.com/bgreenwell/doxx"><img src="./profile/doxx.svg" width="400" /></a></td>
+    <td><a href="https://github.com/bgreenwell/lstr"><img src="./profile/lstr.svg" width="400" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bgreenwell/rjot"><img src="./profile/rjot.svg" width="400" /></a></td>
+    <td><a href="https://github.com/bgreenwell/xleak"><img src="./profile/xleak.svg" width="400" /></a></td>
+  </tr>
+</table>
 
 ### 🐹 Go Projects
-<a href="https://github.com/bgreenwell/gitego"><img src="./profile/gitego.svg" width="400" height="120" /></a>
+<a href="https://github.com/bgreenwell/gitego"><img src="./profile/gitego.svg" width="400" /></a>
 
 ### 📊 R Packages (CRAN Published)
-<a href="https://github.com/bgreenwell/fastshap"><img src="./profile/fastshap.svg" width="400" height="120" /></a>
-<a href="https://github.com/bgreenwell/pdp"><img src="./profile/pdp.svg" width="400" height="120" /></a>
-<a href="https://github.com/koalaverse/vip"><img src="./profile/vip.svg" width="400" height="120" /></a>
-<a href="https://github.com/koalaverse/sure"><img src="./profile/sure.svg" width="400" height="120" /></a>
-<a href="https://github.com/bgreenwell/investr"><img src="./profile/investr.svg" width="400" height="120" /></a>
-<a href="https://github.com/bgreenwell/ebm"><img src="./profile/ebm.svg" width="400" height="120" /></a>
-<a href="https://github.com/bgreenwell/statlingua"><img src="./profile/statlingua.svg" width="400" height="120" /></a>
+<table>
+  <tr>
+    <td><a href="https://github.com/bgreenwell/fastshap"><img src="./profile/fastshap.svg" width="400" /></a></td>
+    <td><a href="https://github.com/bgreenwell/pdp"><img src="./profile/pdp.svg" width="400" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/koalaverse/vip"><img src="./profile/vip.svg" width="400" /></a></td>
+    <td><a href="https://github.com/koalaverse/sure"><img src="./profile/sure.svg" width="400" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bgreenwell/investr"><img src="./profile/investr.svg" width="400" /></a></td>
+    <td><a href="https://github.com/bgreenwell/ebm"><img src="./profile/ebm.svg" width="400" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bgreenwell/statlingua"><img src="./profile/statlingua.svg" width="400" /></a></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -71,10 +88,12 @@ When I'm not training models or teaching, I'm building high-performance develope
 
 ## 📈 GitHub Stats & Languages
 
-<p align="left">
-  <img src="./profile/stats.svg" alt="Brandon's GitHub Stats" width="495" height="195" />
-  <img src="./profile/top-langs.svg" alt="Brandon's Top Languages" width="495" height="195" />
-</p>
+<table>
+  <tr>
+    <td><img src="./profile/stats.svg" alt="Brandon's GitHub Stats" width="495" /></td>
+    <td><img src="./profile/top-langs.svg" alt="Brandon's Top Languages" width="495" /></td>
+  </tr>
+</table>
 
 ---
 
