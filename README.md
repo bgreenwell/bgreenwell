@@ -1,6 +1,6 @@
 # Brandon M. Greenwell, PhD
 
-### Director of data science @ 84.51° | Adjunct instructor @ University of Cincinnati
+### Director of data science @ 84.51° | Adjunct @ University of Cincinnati
 
 [Email](mailto:greenwell.brandon@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/brandon-greenwell/)
 
