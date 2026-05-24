@@ -1,6 +1,6 @@
 # Brandon M. Greenwell 🚀
 
-### Director of Data Science @ 84.51° | Adjunct Instructor @ University of Cincinnati | Ph.D. in Applied Math
+### Director of data science @ 84.51° | Adjunct instructor @ University of Cincinnati | Ph.D. in applied math
 
 📧 [Email](mailto:greenwell.brandon@gmail.com) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en) | 💼 [LinkedIn](https://www.linkedin.com/in/brandon-greenwell/)
 
@@ -15,14 +15,14 @@ When I'm not training models or teaching, I'm building high-performance develope
 ### ⚡ Highlights
 
 - **🏢 Work**: Designing enterprise-grade foundational AI/ML tooling, libraries, and patterns for the Kroger ecosystem.
-- **📚 Books & Writing**: Author of *Hands-On Machine Learning with R* and *Tree-Based Methods for Statistical Learning in R*.
-- **🛠️ Open Source**: Active maintainer and contributor to highly-cited R packages (e.g., `fastshap`, `pdp`, `vip`) and modern CLI/terminal utilities in Rust and Go.
+- **📚 Books & writing**: Author of *Hands-On Machine Learning with R* and *Tree-Based Methods for Statistical Learning in R*.
+- **🛠️ Open source**: Active maintainer and contributor to highly-cited R packages (e.g., `fastshap`, `pdp`, `vip`) and modern CLI/terminal utilities in Rust and Go.
 
 ---
 
-## 💻 Featured Open Source Projects
+## 💻 Featured open-source projects
 
-### 🦀 Rust Projects
+### 🦀 Rust projects
 <table>
   <tr>
     <td><a href="https://github.com/bgreenwell/doxx"><img src="./profile/doxx.svg" width="400" /></a></td>
@@ -34,10 +34,10 @@ When I'm not training models or teaching, I'm building high-performance develope
   </tr>
 </table>
 
-### 🐹 Go Projects
+### 🐹 Go projects
 <a href="https://github.com/bgreenwell/gitego"><img src="./profile/gitego.svg" width="400" /></a>
 
-### 📊 R Packages (CRAN Published)
+### 📊 R packages (CRAN published)
 <table>
   <tr>
     <td><a href="https://github.com/bgreenwell/fastshap"><img src="./profile/fastshap.svg" width="400" /></a></td>
@@ -59,7 +59,7 @@ When I'm not training models or teaching, I'm building high-performance develope
 
 ---
 
-## 🏢 Experience & Roles
+## 🏢 Experience & roles
 
 **Director of Data Science @ 84.51°**
 - Tech lead on the AI Enablement team, building foundational ML tooling and reusable patterns across the Kroger enterprise.
@@ -86,7 +86,7 @@ When I'm not training models or teaching, I'm building high-performance develope
 
 ---
 
-## 📈 GitHub Stats & Languages
+## 📈 GitHub stats & languages
 
 <table>
   <tr>
@@ -97,7 +97,7 @@ When I'm not training models or teaching, I'm building high-performance develope
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/brandon-greenwell/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en)
