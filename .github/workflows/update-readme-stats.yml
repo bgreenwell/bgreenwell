@@ -34,7 +34,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=bgreenwell&repo=doxx&theme=dracula
+          options: username=bgreenwell&repo=doxx&theme=dracula&hide_description=true
           path: profile/doxx.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -42,33 +42,33 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=bgreenwell&repo=lstr&theme=dracula
+          options: username=bgreenwell&repo=lstr&theme=dracula&hide_description=true
           path: profile/lstr.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate rjot Card
+      - name: Generate jotdown-rs Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=bgreenwell&repo=rjot&theme=dracula
-          path: profile/rjot.svg
+          options: username=bgreenwell&repo=jotdown-rs&theme=dracula&hide_description=true
+          path: profile/jotdown-rs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate xleak Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=bgreenwell&repo=xleak&theme=dracula
+          options: username=bgreenwell&repo=xleak&theme=dracula&hide_description=true
           path: profile/xleak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # 🐹 Go Projects
-      - name: Generate gitego Card
+      - name: Generate git-ego Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=bgreenwell&repo=gitego&theme=dracula
-          path: profile/gitego.svg
+          options: username=bgreenwell&repo=git-ego&theme=dracula&hide_description=true
+          path: profile/git-ego.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # 📊 R Packages (CRAN)
@@ -76,7 +76,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=bgreenwell&repo=fastshap&theme=dracula
+          options: username=bgreenwell&repo=fastshap&theme=dracula&hide_description=true
           path: profile/fastshap.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -84,7 +84,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=bgreenwell&repo=pdp&theme=dracula
+          options: username=bgreenwell&repo=pdp&theme=dracula&hide_description=true
           path: profile/pdp.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -92,7 +92,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=koalaverse&repo=vip&theme=dracula
+          options: username=koalaverse&repo=vip&theme=dracula&hide_description=true
           path: profile/vip.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -100,7 +100,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=koalaverse&repo=sure&theme=dracula
+          options: username=koalaverse&repo=sure&theme=dracula&hide_description=true
           path: profile/sure.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -108,7 +108,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=bgreenwell&repo=investr&theme=dracula
+          options: username=bgreenwell&repo=investr&theme=dracula&hide_description=true
           path: profile/investr.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -116,7 +116,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=bgreenwell&repo=ebm&theme=dracula
+          options: username=bgreenwell&repo=ebm&theme=dracula&hide_description=true
           path: profile/ebm.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -124,7 +124,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=bgreenwell&repo=statlingua&theme=dracula
+          options: username=bgreenwell&repo=statlingua&theme=dracula&hide_description=true
           path: profile/statlingua.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

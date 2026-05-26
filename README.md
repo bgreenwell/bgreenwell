@@ -6,9 +6,9 @@
 
 ---
 
-Hi there! I'm Brandon, a statistician turned machine learning researcher and tools developer. I try to help bridge the gap between theoretical statistical foundations and scalable, production-grade AI. Currently a part of the AI Enablement team at 84.51° (Kroger's data science arm) and teaching graduate-level stats and analytics at UC.
+Statistician by training, ML practitioner and tools developer by trade. I'm the science tech lead for the Responsible AI team at 84.51° (Kroger's data science arm) and teach graduate-level statistics, analytics, and AI-assisted programming at UC.
 
-When I'm not training models or teaching, I'm building high-performance developer tooling in **Rust** and **Go**, or writing and maintaining statistical packages in **R**.
+Most of what I build lives at the intersection of statistical rigor and practical ML — R packages for model interpretation (`fastshap`, `pdp`, `vip`), two books on machine learning with R, and increasingly, developer tooling in **Rust** and **Go**.
 
 ---
 
