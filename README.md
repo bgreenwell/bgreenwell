@@ -6,7 +6,7 @@
 
 ---
 
-Hi there! I'm Brandon, a statistician turned machine learning practitioner and tools developer. I bridge the gap between theoretical statistical foundations and scalable, production-grade AI. Currently a part of the AI Enablement team at 84.51° (Kroger's data science arm) and teaching graduate-level stats and analytics.
+Hi there! I'm Brandon, a statistician turned machine learning researcher and tools developer. I try to help bridge the gap between theoretical statistical foundations and scalable, production-grade AI. Currently a part of the AI Enablement team at 84.51° (Kroger's data science arm) and teaching graduate-level stats and analytics at UC.
 
 When I'm not training models or teaching, I'm building high-performance developer tooling in **Rust** and **Go**, or writing and maintaining statistical packages in **R**.
 
@@ -29,13 +29,13 @@ When I'm not training models or teaching, I'm building high-performance develope
     <td><a href="https://github.com/bgreenwell/lstr"><img src="./profile/lstr.svg" width="400" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/bgreenwell/rjot"><img src="./profile/rjot.svg" width="400" /></a></td>
+    <td><a href="https://github.com/bgreenwell/jotdown-rs"><img src="./profile/jotdown-rs.svg" width="400" /></a></td>
     <td><a href="https://github.com/bgreenwell/xleak"><img src="./profile/xleak.svg" width="400" /></a></td>
   </tr>
 </table>
 
 ### Go projects
-<a href="https://github.com/bgreenwell/gitego"><img src="./profile/gitego.svg" width="400" /></a>
+<a href="https://github.com/bgreenwell/git-ego"><img src="./profile/git-ego.svg" width="400" /></a>
 
 ### R packages (CRAN published)
 <table>
