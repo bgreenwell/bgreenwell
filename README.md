@@ -1,22 +1,12 @@
 # Brandon M. Greenwell, PhD
 
-### Director of Data Science @ 84.51° | Adjunct @ University of Cincinnati
-
-[Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/brandon-greenwell/)
-
----
+### Director of Data Science @ 84.51° · Adjunct @ UC
 
 Statistician by training, ML practitioner and tools developer by trade. I'm the science tech lead for the Responsible AI team at 84.51° (Kroger's data science arm) and teach graduate-level statistics, analytics, and AI-assisted programming at UC.
 
-Most of what I build lives at the intersection of statistical rigor and practical ML — R packages for model interpretation (`fastshap`, `pdp`, `vip`), two books on machine learning with R, and increasingly, developer tooling in **Rust** and **Go**.
+Most of what I build lives at the intersection of statistical rigor and practical ML — R packages for model interpretation ([`fastshap`](https://github.com/bgreenwell/fastshap), [`pdp`](https://github.com/bgreenwell/pdp), [`vip`](https://github.com/koalaverse/vip)), two books on machine learning with R ([*Hands-On Machine Learning with R*](https://www.routledge.com/Hands-On-Machine-Learning-with-R/Boehmke-Greenwell/p/book/9781138495685) and [*Tree-Based Methods for Statistical Learning in R*](https://www.routledge.com/Tree-Based-Methods-for-Statistical-Learning-in-R/Greenwell/p/book/9780367532468)), and increasingly, developer tooling in **Rust** and **Go**.
 
----
-
-### Highlights
-
-- **Work**: Designing enterprise-grade foundational AI/ML tooling, libraries, and patterns for the Kroger ecosystem.
-- **Books**: Author of *Hands-On Machine Learning with R* and *Tree-Based Methods for Statistical Learning in R*.
-- **Open source**: Active maintainer and contributor to highly-cited R packages (e.g., `fastshap`, `pdp`, `vip`) and modern CLI/terminal utilities in Rust and Go.
+[Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/brandon-greenwell/) · [CV](https://bgreenwell.github.io)
 
 ---
 
@@ -59,41 +49,12 @@ Most of what I build lives at the intersection of statistical rigor and practica
 
 ---
 
-## Experience & roles
-
-**Director of Data Science @ 84.51°**
-- Tech lead on the AI Enablement team, building foundational ML tooling and reusable patterns across the Kroger enterprise.
-
----
-
-## Teaching
-
-**Adjunct Instructor @ University of Cincinnati** (2022 - Present)
-- Department of OBAIS — teaching graduate-level statistical modeling, business analytics, and programming with AI courses.
-
-**Adjunct Instructor @ Wright State University** (2017 - 2022)
-- Taught graduate-level Biostatistics and Environmental Statistics courses.
-
----
-
 ## Education
 
-- **Ph.D. in Applied Mathematics** — Air Force Institute of Technology (2014)
-  - Dissertation: [*Topics in Statistical Calibration*](https://apps.dtic.mil/sti/pdfs/ADA598921.pdf) | GPA: 4.0
-- **M.S. in Applied Statistics** — Wright State University (2011) | GPA: 4.0
+- **Ph.D. in Applied Mathematics** — Air Force Institute of Technology (2014) · [dissertation](https://apps.dtic.mil/sti/pdfs/ADA598921.pdf)
+- **M.S. in Applied Statistics** — Wright State University (2011)
 - **B.S. in Statistics** — Wright State University (2009)
-- **Accredited Graduate Statistician (GStat)** — American Statistical Association (2014)
 
 ---
-
-## GitHub stats
 
 ![Brandon's GitHub Stats](./profile/stats.svg)
-
----
-
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/brandon-greenwell/)
-- [Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en)
-- Email: [greenwell.brandon@gmail.com](mailto:greenwell.brandon@gmail.com)
