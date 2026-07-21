@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Brandon Greenwell's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 7484, Total Commits  (last year) : 737, Total PRs: 210, Total Issues: 510, Contributed to (last year): 18</desc>
+        <desc id="descId">Total Stars Earned: 7487, Total Commits  (last year) : 737, Total PRs: 210, Total Issues: 510, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 24.718300703028962;
+        stroke-dashoffset: 24.71807940082819;
       }
     }
   
