@@ -2,11 +2,36 @@
 
 ### Director of Data Science @ 84.51° · Adjunct @ UC
 
-Statistician by training, ML practitioner and tools developer by trade. I'm the science tech lead for the Responsible AI team at 84.51° (Kroger's data science arm) and teach graduate-level statistics, analytics, and AI-assisted programming at UC.
-
-Most of what I build lives at the intersection of statistical rigor and practical ML — R packages for model interpretation ([`fastshap`](https://github.com/bgreenwell/fastshap), [`pdp`](https://github.com/bgreenwell/pdp), [`vip`](https://github.com/bgreenwell/vip)), two books on machine learning with R ([*Hands-On Machine Learning with R*](https://www.routledge.com/Hands-On-Machine-Learning-with-R/Boehmke-Greenwell/p/book/9781138495685) and [*Tree-Based Methods for Statistical Learning in R*](https://www.routledge.com/Tree-Based-Methods-for-Statistical-Learning-in-R/Greenwell/p/book/9780367532468)), and increasingly, developer tooling in **Rust** and **Go**.
+Statistician by training, ML practitioner and tools developer by trade. I build practical software at the intersection of statistical rigor, responsible AI, and developer experience, and teach graduate-level statistics, analytics, and AI-assisted programming.
 
 [Google Scholar](https://scholar.google.com/citations?user=YUHzBUEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/brandon-greenwell/) · [CV](https://bgreenwell.github.io)
+
+---
+
+## Books
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.routledge.com/Hands-On-Machine-Learning-with-R/Boehmke-Greenwell/p/book/9781138495685">
+        <img alt="Cover of Hands-On Machine Learning with R" src="./profile/books/hands-on-machine-learning-with-r.jpg" width="160">
+      </a><br>
+      <a href="https://www.routledge.com/Hands-On-Machine-Learning-with-R/Boehmke-Greenwell/p/book/9781138495685"><strong>Hands-On Machine Learning with R</strong></a><br>
+      <sub>Co-authored with Brad Boehmke · 2019</sub><br><br>
+      A practical, end-to-end guide to building, evaluating, and interpreting machine-learning models in R.<br><br>
+      <a href="https://www.routledge.com/Hands-On-Machine-Learning-with-R/Boehmke-Greenwell/p/book/9781138495685">Publisher</a> · <a href="https://koalaverse.github.io/homlr/">Companion site</a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.routledge.com/Tree-Based-Methods-for-Statistical-Learning-in-R/Greenwell/p/book/9780367532468">
+        <img alt="Cover of Tree-Based Methods for Statistical Learning in R" src="./profile/books/tree-based-methods-for-statistical-learning-in-r.jpg" width="160">
+      </a><br>
+      <a href="https://www.routledge.com/Tree-Based-Methods-for-Statistical-Learning-in-R/Greenwell/p/book/9780367532468"><strong>Tree-Based Methods for Statistical Learning in R</strong></a><br>
+      <sub>Author · 2022</sub><br><br>
+      A ground-up treatment of decision trees, random forests, and boosting, with code-based examples in R.<br><br>
+      <a href="https://www.routledge.com/Tree-Based-Methods-for-Statistical-Learning-in-R/Greenwell/p/book/9780367532468">Publisher</a> · <a href="https://bgreenwell.github.io/treebook/">Companion site</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -103,14 +128,10 @@ Most of what I build lives at the intersection of statistical rigor and practica
   </tr>
 </table>
 
-**More developer tools:** [`jotdown-rs`](https://github.com/bgreenwell/jotdown-rs) — private, git-friendly command-line notes.
+**More developer tools:** [`jotdown-rs`](https://github.com/bgreenwell/jotdown-rs) — private-by-default, git-friendly command-line notes.
 
 **More statistical and ML software:** [`sure`](https://github.com/bgreenwell/sure) · [`investr`](https://github.com/bgreenwell/investr) · [`ebm`](https://github.com/bgreenwell/ebm)
 
 ---
 
-## Education
-
-- **Ph.D. in Applied Mathematics** — Air Force Institute of Technology (2014) · [dissertation](https://apps.dtic.mil/sti/pdfs/ADA598921.pdf)
-- **M.S. in Applied Statistics** — Wright State University (2011)
-- **B.S. in Statistics** — Wright State University (2009)
+**Education:** Ph.D., Applied Mathematics — Air Force Institute of Technology · M.S., Applied Statistics — Wright State University · B.S., Statistics — Wright State University · [dissertation](https://apps.dtic.mil/sti/pdfs/ADA598921.pdf)
