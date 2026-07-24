@@ -79,11 +79,33 @@ Most of what I build lives at the intersection of statistical rigor and practica
       <a href="https://github.com/bgreenwell/vip"><img alt="GitHub stars for vip" src="https://img.shields.io/github/stars/bgreenwell/vip?style=flat&amp;label=stars&amp;color=6e7781"></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/bgreenwell/pdp">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./profile/cards/pdp-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="./profile/cards/pdp-light.svg">
+          <img alt="pdp — Partial dependence plots for machine-learning models." src="./profile/cards/pdp-light.svg" width="400">
+        </picture>
+      </a><br>
+      <a href="https://github.com/bgreenwell/pdp"><img alt="GitHub stars for pdp" src="https://img.shields.io/github/stars/bgreenwell/pdp?style=flat&amp;label=stars&amp;color=6e7781"></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/bgreenwell/statlingo">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./profile/cards/statlingo-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="./profile/cards/statlingo-light.svg">
+          <img alt="statlingo — Explain statistical output with large language models." src="./profile/cards/statlingo-light.svg" width="400">
+        </picture>
+      </a><br>
+      <a href="https://github.com/bgreenwell/statlingo"><img alt="GitHub stars for statlingo" src="https://img.shields.io/github/stars/bgreenwell/statlingo?style=flat&amp;label=stars&amp;color=6e7781"></a>
+    </td>
+  </tr>
 </table>
 
 **More developer tools:** [`jotdown-rs`](https://github.com/bgreenwell/jotdown-rs) — private, git-friendly command-line notes.
 
-**More statistical and ML software:** [`pdp`](https://github.com/bgreenwell/pdp) · [`sure`](https://github.com/bgreenwell/sure) · [`investr`](https://github.com/bgreenwell/investr) · [`ebm`](https://github.com/bgreenwell/ebm) · [`statlingo`](https://github.com/bgreenwell/statlingo)
+**More statistical and ML software:** [`sure`](https://github.com/bgreenwell/sure) · [`investr`](https://github.com/bgreenwell/investr) · [`ebm`](https://github.com/bgreenwell/ebm)
 
 ---
 

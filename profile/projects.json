@@ -40,5 +40,19 @@
     "description": "Variable-importance plots for machine-learning models.",
     "language": "R",
     "accent": "#276DC3"
+  },
+  {
+    "slug": "pdp",
+    "name": "pdp",
+    "description": "Partial dependence plots for machine-learning models.",
+    "language": "R",
+    "accent": "#276DC3"
+  },
+  {
+    "slug": "statlingo",
+    "name": "statlingo",
+    "description": "Explain statistical output with large language models.",
+    "language": "R + Python",
+    "accent": "#8250DF"
   }
 ]
