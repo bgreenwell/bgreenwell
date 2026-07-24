@@ -1,6 +1,6 @@
 # Brandon M. Greenwell, PhD
 
-### Director of Data Science @ 84.51° · Adjunct @ University of Cincinnati
+### Director, Data Science @ 84.51° · Adjunct @ University of Cincinnati
 
 Statistician by training, ML practitioner and tools developer by trade. I build practical software at the intersection of statistical rigor, responsible AI, and developer experience, and teach graduate-level statistics, analytics, and AI-assisted programming.
 
