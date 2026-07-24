@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "doxx",
+    "name": "doxx",
+    "description": "Inspect .docx files without leaving the terminal.",
+    "language": "Rust",
+    "accent": "#C05A2B"
+  },
+  {
+    "slug": "lstr",
+    "name": "lstr",
+    "description": "A fast, minimalist directory-tree viewer.",
+    "language": "Rust",
+    "accent": "#C05A2B"
+  },
+  {
+    "slug": "xleak",
+    "name": "xleak",
+    "description": "Explore Excel files in a fast terminal UI.",
+    "language": "Rust",
+    "accent": "#C05A2B"
+  },
+  {
+    "slug": "git-ego",
+    "name": "git-ego",
+    "description": "Switch Git identities safely across repositories.",
+    "language": "Go",
+    "accent": "#007D9C"
+  },
+  {
+    "slug": "fastshap",
+    "name": "fastshap",
+    "description": "Fast approximate Shapley values for R.",
+    "language": "R",
+    "accent": "#276DC3"
+  },
+  {
+    "slug": "vip",
+    "name": "vip",
+    "description": "Variable-importance plots for machine-learning models.",
+    "language": "R",
+    "accent": "#276DC3"
+  }
+]

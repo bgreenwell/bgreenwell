@@ -1,0 +1,24 @@
+name: Verify project cards
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - profile/projects.json
+      - profile/cards/**
+      - scripts/render_project_cards.py
+      - .github/workflows/verify-project-cards.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Verify generated cards
+        run: python3 scripts/render_project_cards.py --check

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140" role="img" aria-labelledby="title desc">
+  <title id="title">git-ego</title>
+  <desc id="desc">Switch Git identities safely across repositories.</desc>
+  <rect x="0.5" y="0.5" width="399" height="139" rx="10" fill="#0D1117" stroke="#30363D"/>
+  <rect x="0" y="0" width="5" height="140" rx="2.5" fill="#007D9C"/>
+  <text x="28" y="39" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="21" font-weight="650">git-ego</text>
+  <text x="28" y="66" fill="#9198A1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14"><tspan x="28" dy="0">Switch Git identities safely across</tspan><tspan x="28" dy="20">repositories.</tspan></text>
+  <g transform="translate(28 108)">
+    <rect width="66" height="24" rx="12" fill="#161B22"/>
+    <circle cx="13" cy="12" r="4" fill="#007D9C"/>
+    <text x="24" y="16" fill="#9198A1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="600">Go</text>
+  </g>
+  <text x="372" y="126" text-anchor="end" fill="#9198A1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13">View project →</text>
+</svg>
