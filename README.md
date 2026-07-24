@@ -22,7 +22,7 @@ Most of what I build lives at the intersection of statistical rigor and practica
           <img alt="doxx — Inspect .docx files without leaving the terminal." src="./profile/cards/doxx-light.svg" width="400">
         </picture>
       </a><br>
-      <a href="https://github.com/bgreenwell/doxx"><img alt="GitHub stars for doxx" src="https://img.shields.io/github/stars/bgreenwell/doxx?style=flat&amp;label=stars&amp;color=6e7781"></a>
+      <a href="https://github.com/bgreenwell/doxx"><img alt="GitHub stars for doxx" src="https://img.shields.io/github/stars/bgreenwell/doxx?style=flat&amp;label=stars&amp;labelColor=3d444d&amp;color=e3b341"></a>
     </td>
     <td width="50%">
       <a href="https://github.com/bgreenwell/lstr">
@@ -32,7 +32,7 @@ Most of what I build lives at the intersection of statistical rigor and practica
           <img alt="lstr — A fast, minimalist directory-tree viewer." src="./profile/cards/lstr-light.svg" width="400">
         </picture>
       </a><br>
-      <a href="https://github.com/bgreenwell/lstr"><img alt="GitHub stars for lstr" src="https://img.shields.io/github/stars/bgreenwell/lstr?style=flat&amp;label=stars&amp;color=6e7781"></a>
+      <a href="https://github.com/bgreenwell/lstr"><img alt="GitHub stars for lstr" src="https://img.shields.io/github/stars/bgreenwell/lstr?style=flat&amp;label=stars&amp;labelColor=3d444d&amp;color=e3b341"></a>
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Most of what I build lives at the intersection of statistical rigor and practica
           <img alt="xleak — Explore Excel files in a fast terminal UI." src="./profile/cards/xleak-light.svg" width="400">
         </picture>
       </a><br>
-      <a href="https://github.com/bgreenwell/xleak"><img alt="GitHub stars for xleak" src="https://img.shields.io/github/stars/bgreenwell/xleak?style=flat&amp;label=stars&amp;color=6e7781"></a>
+      <a href="https://github.com/bgreenwell/xleak"><img alt="GitHub stars for xleak" src="https://img.shields.io/github/stars/bgreenwell/xleak?style=flat&amp;label=stars&amp;labelColor=3d444d&amp;color=e3b341"></a>
     </td>
     <td width="50%">
       <a href="https://github.com/bgreenwell/git-ego">
@@ -54,7 +54,7 @@ Most of what I build lives at the intersection of statistical rigor and practica
           <img alt="git-ego — Switch Git identities safely across repositories." src="./profile/cards/git-ego-light.svg" width="400">
         </picture>
       </a><br>
-      <a href="https://github.com/bgreenwell/git-ego"><img alt="GitHub stars for git-ego" src="https://img.shields.io/github/stars/bgreenwell/git-ego?style=flat&amp;label=stars&amp;color=6e7781"></a>
+      <a href="https://github.com/bgreenwell/git-ego"><img alt="GitHub stars for git-ego" src="https://img.shields.io/github/stars/bgreenwell/git-ego?style=flat&amp;label=stars&amp;labelColor=3d444d&amp;color=e3b341"></a>
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Most of what I build lives at the intersection of statistical rigor and practica
           <img alt="fastshap — Fast approximate Shapley values for R." src="./profile/cards/fastshap-light.svg" width="400">
         </picture>
       </a><br>
-      <a href="https://github.com/bgreenwell/fastshap"><img alt="GitHub stars for fastshap" src="https://img.shields.io/github/stars/bgreenwell/fastshap?style=flat&amp;label=stars&amp;color=6e7781"></a>
+      <a href="https://github.com/bgreenwell/fastshap"><img alt="GitHub stars for fastshap" src="https://img.shields.io/github/stars/bgreenwell/fastshap?style=flat&amp;label=stars&amp;labelColor=3d444d&amp;color=e3b341"></a>
     </td>
     <td width="50%">
       <a href="https://github.com/bgreenwell/vip">
@@ -76,7 +76,7 @@ Most of what I build lives at the intersection of statistical rigor and practica
           <img alt="vip — Variable-importance plots for machine-learning models." src="./profile/cards/vip-light.svg" width="400">
         </picture>
       </a><br>
-      <a href="https://github.com/bgreenwell/vip"><img alt="GitHub stars for vip" src="https://img.shields.io/github/stars/bgreenwell/vip?style=flat&amp;label=stars&amp;color=6e7781"></a>
+      <a href="https://github.com/bgreenwell/vip"><img alt="GitHub stars for vip" src="https://img.shields.io/github/stars/bgreenwell/vip?style=flat&amp;label=stars&amp;labelColor=3d444d&amp;color=e3b341"></a>
     </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ Most of what I build lives at the intersection of statistical rigor and practica
           <img alt="pdp — Partial dependence plots for machine-learning models." src="./profile/cards/pdp-light.svg" width="400">
         </picture>
       </a><br>
-      <a href="https://github.com/bgreenwell/pdp"><img alt="GitHub stars for pdp" src="https://img.shields.io/github/stars/bgreenwell/pdp?style=flat&amp;label=stars&amp;color=6e7781"></a>
+      <a href="https://github.com/bgreenwell/pdp"><img alt="GitHub stars for pdp" src="https://img.shields.io/github/stars/bgreenwell/pdp?style=flat&amp;label=stars&amp;labelColor=3d444d&amp;color=e3b341"></a>
     </td>
     <td width="50%">
       <a href="https://github.com/bgreenwell/statlingo">
@@ -98,7 +98,7 @@ Most of what I build lives at the intersection of statistical rigor and practica
           <img alt="statlingo — Explain statistical output with large language models." src="./profile/cards/statlingo-light.svg" width="400">
         </picture>
       </a><br>
-      <a href="https://github.com/bgreenwell/statlingo"><img alt="GitHub stars for statlingo" src="https://img.shields.io/github/stars/bgreenwell/statlingo?style=flat&amp;label=stars&amp;color=6e7781"></a>
+      <a href="https://github.com/bgreenwell/statlingo"><img alt="GitHub stars for statlingo" src="https://img.shields.io/github/stars/bgreenwell/statlingo?style=flat&amp;label=stars&amp;labelColor=3d444d&amp;color=e3b341"></a>
     </td>
   </tr>
 </table>
