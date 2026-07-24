@@ -134,4 +134,6 @@ Statistician by training, ML practitioner and tools developer by trade. I build 
 
 ---
 
-**Education:** Ph.D., Applied Mathematics — Air Force Institute of Technology · M.S., Applied Statistics — Wright State University · B.S., Statistics — Wright State University · [dissertation](https://apps.dtic.mil/sti/pdfs/ADA598921.pdf)
+**Education:** Ph.D., Applied Mathematics — Air Force Institute of Technology · M.S., Applied Statistics — Wright State University · B.S., Statistics — Wright State University
+
+**Dissertation:** [*Topics in Statistical Calibration*](https://scholar.afit.edu/etd/572/) · 2014
